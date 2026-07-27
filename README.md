@@ -1,5 +1,7 @@
 # RAPID: A Reproducible Multi-Agent Pipeline for Interpretable Disaster Damage Assessment from Satellite and Street-View Imagery
 
+> 📦 **Datasets:** [disaster-crossview-datasets](https://github.com/Rayford-AI/disaster-crossview-datasets) — the shared cross-view disaster data backbone for the Rayford-AI org.
+
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
   <img src="https://img.shields.io/badge/Python-3.8+-green.svg" alt="Python"/>
