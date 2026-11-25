@@ -14,6 +14,13 @@
 
 ---
 
+## 📢 News
+
+- **[Aug 2026]** 🎉 This work has been **accepted by ACM SIGSPATIAL 2026** and selected for an **oral presentation**. Presentation slides are available in [`SIGSPATIAL2026/`](./SIGSPATIAL2026) ([PDF](./SIGSPATIAL2026/RAPID_SIGSPATIAL2026_slides.pdf)).
+- **[Aug 2026]** 🎉 The extended abstract **RAPIDMap** has been **accepted by the CaGIS 2026 Conference** (Sept 8–11, St. Louis, MO) for an **oral presentation**. See [`CaGIS2026/`](./CaGIS2026).
+
+---
+
 ## Abstract
 
 With the increasing frequency and intensity of extreme climate events, there is a growing demand for intelligent, scalable, and autonomous approaches to disaster damage assessment. Existing methods, largely based on supervised learning and task-specific fine-tuning, struggle to generalize under domain shifts, long-tailed data distributions, and heterogeneous geospatial data sources. This repository presents **RAPID**, an autonomous multi-agent pipeline for interpretable disaster damage assessment, including damage-level assessment, interpretation of damage types and degrees, and generation of actionable suggestions for response, remediation, and recovery.
@@ -148,6 +155,8 @@ RAPID/
 │   ├── Large Language Model-based evaluation.py
 │   ├── test.py                          # Report generation + evaluation
 │   └── Prompt--Disaster Reasoning Agent
+├── CaGIS2026/                           # CaGIS 2026 extended abstract (oral)
+├── SIGSPATIAL2026/                      # ACM SIGSPATIAL 2026 materials (oral)
 └── figure/
 ```
 
